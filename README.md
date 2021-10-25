@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![wsjpla's Github stats](https://github-readme-stats.vercel.app/api?username=wsjpla&show_icons=true)
-
 ![wsjpla's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=wsjpla&layout=compact)
