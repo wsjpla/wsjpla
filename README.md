@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![wsjpla's Github stats](https://github-readme-stats.vercel.app/api?username=wsjpla&show_icons=true)
-![wsjpla's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=wsjpla&layout=compact)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wsjpla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wsjpla's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsjpla&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
