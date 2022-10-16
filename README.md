@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm w5jpla</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wsjpla&label=Profile%20views&color=0e75b6&style=flat" alt="wsjpla" /> </p>
 
 - 🔭 I’m currently studying for a master's degree in **robotic engineering** at SUSTech
 - 🤔 Research interests: **SLAM, sensor fusion**
