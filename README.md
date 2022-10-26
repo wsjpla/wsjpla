@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm w5jpla</h1>
 
-- 🔭 I’m currently studying for a master's degree in **robotic engineering** at SUSTech
+- 🔭 I'm currently studying for a master's degree in **robotic engineering** at SUSTech
 - 🤔 Research interests: **SLAM, sensor fusion**
 - ⚡ Personal website: <a href="https://wsjpla.github.io/">wsjpla.github.io</a> **(The website is under construction.)**
 
